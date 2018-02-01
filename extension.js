@@ -58,7 +58,7 @@ $(":header").each(function(){
 
 v = 0
 $("p").each(function(){
-	$(this).html("paragrah "+v);
+	$(this).html("paragraph "+v);
 	v++;
 });
 

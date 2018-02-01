@@ -6,8 +6,10 @@ This is a simple Chrome extension built in JavaScript. This extension uses HTML 
 
 # Images
 ## Facebook
+You'll notice "Games", "Instant Games", and "Search" are left over....
 ![Facebook](http://i.imgur.com/2PaBXqe.jpg)
 ## iStockPhoto
+A very specific/funny page showing alt-text function
 ![iStockPhoto](https://i.imgur.com/ZV9lWwi.png)
 ## YouTube
 ![iStockPhoto](https://i.imgur.com/MTgnMLG.png)
